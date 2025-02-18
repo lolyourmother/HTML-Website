@@ -1,5 +1,7 @@
 # DGE 304: Final Project 
 
+*this project is not finished but this is what got submitted*
+
 This project challenges you to design and develop a functional shopping webpage using HTML, CSS, and basic JavaScript. You will choose one of the suggested shopping types (or propose your own) and create an engaging and user-friendly online store that
 showcases products, provides clear navigation, and implements basic shopping cart functionality.
 
